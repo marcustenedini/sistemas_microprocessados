@@ -1,0 +1,12 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Ex19,org.eclipse.launchbar.core.descriptorType.default\:analogico13,org.eclipse.launchbar.core.descriptorType.default\:i2csend,org.eclipse.launchbar.core.descriptorType.default\:problema-modulo3,org.eclipse.launchbar.core.descriptorType.default\:analogico,org.eclipse.launchbar.core.descriptorType.default\:modulo2_ex1,org.eclipse.launchbar.core.descriptorType.default\:modulo_gps,org.eclipse.launchbar.core.descriptorType.default\:uart,org.eclipse.launchbar.core.descriptorType.default\:projetofinal-lora,org.eclipse.launchbar.core.descriptorType.default\:parser-sismic
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Ex13/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Ex13/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Ex19/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:Ex19/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:fib16/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:fib16/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

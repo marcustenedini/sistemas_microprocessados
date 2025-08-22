@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project modulo_gps ****
+
+"C:\\ti\\ccs1281\\ccs\\utils\\bin\\gmake" -k -j 16 all -O 
+ 
+gmake[1]: 'modulo_gps.out' is up to date.
+
+**** Build Finished ****
